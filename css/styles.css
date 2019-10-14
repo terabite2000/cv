@@ -1,0 +1,15 @@
+body {
+  align-content: center;
+  background-color: #DEF0FC;
+  color: #333333;
+}
+hr {
+  padding: 1px;
+  border-color: #aaaaaa;
+  border-width: 6px;
+  width: 10%;
+  border-style: dotted none none;
+}
+h1, h3 {
+  color: #66bfbf;
+}
