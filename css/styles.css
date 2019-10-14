@@ -1,17 +1,17 @@
 body {
   align-content: center;
-  background-color: #f7fbf7;
+  background-color: #ddeded;
   color: #333333;
 }
 hr {
   padding: 1px;
-  border-color: #aaaaaa;
+  border-color: #AAAAAA;
   border-width: 6px;
   width: 60px;
   border-style: dotted none none;
 }
 h1, h3 {
-  color: #66bfbf;
+  color: #3fb0b0;
 }
 h4 {
   display: inline;
